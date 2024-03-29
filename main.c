@@ -56,7 +56,7 @@ int main() {
     //printf("2*3 = %d \n", mulRec(2,10));
     //printf("2^3 = %d \n", puiRec(2,3));
 
-    for (int i = 0; i < 100; ++i) {
+    for (int i = 0; i < 10; ++i) {
         printf("fibo(%d) = %d \n", i, fibo(i));
     }
     char * message = "hola";
